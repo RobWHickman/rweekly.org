@@ -78,18 +78,18 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
++ [Postgres Conference 2020 - Keynote!](https://www.littlemissdata.com/blog/postgres2020)
+[Time-to-Event Analytics: Probabilistic Programming with R and Stan (Malmö, Sweden), March 31](https://www.meetup.com/Skane-R-User-Group/events/268627833/)
 
-+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
++ [satRday Johannesburg 2020](https://joburg2020.satrdays.org/)
 
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
-
-+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
++ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [satRday Neuchâtel 2020](https://neuchatel2020.satrdays.org/)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
